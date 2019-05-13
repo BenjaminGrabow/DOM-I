@@ -100,3 +100,5 @@ nav[4].style.color = "#00FF00";
 nav[5].style.color = "#00FF00";
 nav[6].style.color = "#00FF00";
 nav[7].style.color = "#00FF00";
+// Stretch goal 
+ctaButton.addEventListener('click', (event) => { event.target.style.color = 'blue'; });
